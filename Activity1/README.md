@@ -10,7 +10,7 @@
 
 🔗 **TinkerCad Circuit:** [View the circuit here](https://www.tinkercad.com/things/2IPpCmf2Kyc-activity-1/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=L094NlnBJXxVfPSNS5jQyn7XZ5Dq56siixmCJ0mjZ8Q&fbclid=IwY2xjawM2M1JleHRuA2FlbQIxMABicmlkETFIb2dqY3lzWm9qT3UwcGNJAR75EWZ7Y8ZMAZ-9GRJ-nk3iVeL9n7euc6onSvdppo9Nt8nZZD36FpbIGO0J-w_aem_o-7kLAlYVED3o6TFtikYOw)  
 
-![Breadboard Diagram](Lab-Activity1_Working with Digital Signals.png)
+![Breadboard Diagram](Lab1_Diagram.png)
 
 
 ---
