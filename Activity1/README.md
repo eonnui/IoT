@@ -24,6 +24,6 @@
 - **Tool Used:** ChatGPT  
 - **Model:** GPT-5  
 - **Prompt:** *"c++ loop srudino"*  
-- **Conversation Link:** [ChatGPT Reference](https://chatgpt.com/c/68c6a98c-0614-832a-99fc-2c76ac37722c)  
+- **Conversation Link:** [ChatGPT Reference]([https://chatgpt.com/c/68c6a98c-0614-832a-99fc-2c76ac37722c](https://chatgpt.com/share/68c9530e-c970-8011-bf50-900db559b68d))  
 
 ---
