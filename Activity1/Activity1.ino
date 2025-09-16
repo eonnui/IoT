@@ -9,9 +9,9 @@ void setup(){
 void loop(){
   for (int i = 0; i < 5; i++){
     digitalWrite(leds[i], HIGH);
-    delay(500);
+    delay(1000);
     digitalWrite(leds[i], LOW);
-    delay(500);
+    delay(1000);
   }
 
 }
