@@ -1,4 +1,4 @@
-int leds[] = {8,9,10,11,12,};
+int leds[] = {12,11,10,9,8};
 
 void setup(){
     for (int i = 0; i < 5; i++){
